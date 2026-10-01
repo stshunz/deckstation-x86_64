@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Service
 Name=Comprimir a wsquashfs (Zstd)
-ServiceTypes=all/allfiles
+ServiceTypes=KonqPopupMenu/Plugin
 MimeType=inode/directory;
 Actions=Comprimir;ComprimirSubcarpetas;ComprimirBorrar;
 X-KDE-Priority=TopLevel

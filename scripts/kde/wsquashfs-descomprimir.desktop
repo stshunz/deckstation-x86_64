@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Service
 Name=Descomprimir wsquashfs
-ServiceTypes=all/allfiles
+ServiceTypes=KonqPopupMenu/Plugin
 MimeType=application/x-wsquashfs;
 Actions=Descomprimir;
 X-KDE-Priority=TopLevel
